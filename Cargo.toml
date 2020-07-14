@@ -1,5 +1,5 @@
 [package]
-name = "skyline_rs_template"
+name = "hitbox_visualizer"
 version = "0.1.0"
 authors = ["jam1garner <jam1.mcleod@hotmail.com>"]
 edition = "2018"
@@ -12,7 +12,10 @@ crate-type = ["cdylib"]
 
 [dependencies]
 skyline = { git = "https://github.com/ultimate-research/skyline-rs.git" }
-skyline_smash = { git = "https://github.com/ultimate-research/skyline-smash.git" }
+# skyline_smash = { git = "https://github.com/ultimate-research/skyline-smash.git" }
+# acmd = { git = "https://github.com/ultimate-research/skyline-acmd.git" }
+skyline_smash = { path = "../../../../src/skyline-smash" }
+acmd = { path = "../../../../src/skyline-acmd" }
 
 [profile.dev]
 panic = "abort"
