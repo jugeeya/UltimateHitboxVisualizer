@@ -1,0 +1,1 @@
+initSidebarItems({"attr":[["acmd_func",""]],"fn":[["add_acmd_load_hook",""],["add_acmd_load_weapon_hook",""]],"macro":[["acmd",""],["add_custom_hooks",""],["add_custom_weapon_hooks",""],["add_hook",""],["add_hooks",""],["generate_acmd_is_execute",""]]});

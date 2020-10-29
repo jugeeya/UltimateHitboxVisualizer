@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["smash"] = [{"text":"impl&lt;Storage, Align&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/marker/trait.StructuralEq.html\" title=\"trait core::marker::StructuralEq\">StructuralEq</a> for <a class=\"struct\" href=\"smash/struct.__BindgenBitfieldUnit.html\" title=\"struct smash::__BindgenBitfieldUnit\">__BindgenBitfieldUnit</a>&lt;Storage, Align&gt;","synthetic":false,"types":["smash::cpp::root::__BindgenBitfieldUnit"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
